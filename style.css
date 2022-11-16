@@ -451,7 +451,7 @@ a{
     left: 12%;
     display: flex;
     flex-direction: column;
-    background-image: url(Image/colorpen.png);
+    background-image: url(colorpen.png);
     background-size: cover;
     width: 24%;
     height: 38%;
@@ -464,7 +464,7 @@ a{
 .i2{
     display: flex;
     flex-direction: column;
-    background-image: url(Image/colorpen1.png);
+    background-image: url(colorpen1.png);
     background-size: cover;
     width: 24%;
     height: 38%;
@@ -480,7 +480,7 @@ a{
 .i3{
     display: flex;
     flex-direction: column;
-    background-image: url(Image/colorpen2.png);
+    background-image: url(colorpen2.png);
     background-size: cover;
     width: 24%;
     height: 38%;
